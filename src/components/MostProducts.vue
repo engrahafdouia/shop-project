@@ -65,7 +65,7 @@
     <v-img
       cover
       height="250"
-      src="../../public/assets/mo.jpg"
+      src="/assets/mo.jpg"
     ></v-img>
 
     <v-card-item>
@@ -146,7 +146,7 @@
     <v-img
       cover
       height="250"
-      src="../../public/assets/perfume-2142824__340.jpg"
+      src="/assets/perfume-2142824__340.jpg"
     ></v-img>
 
     <v-card-item>
@@ -228,7 +228,7 @@
     <v-img
       cover
       height="250"
-      src="../../public/assets/lap.jpg"
+      src="/assets/lap.jpg"
     ></v-img>
 
     <v-card-item>

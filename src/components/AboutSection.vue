@@ -53,10 +53,10 @@
         return {
             items: [
               {
-                    src: "../../public/img/trendy-beautiful-young-asian-woman-carrying-colorful-bags-shopping-online-mobile-phone-isolated-purple-banner-background-184325828.jpg",
+                    src: "/img/trendy-beautiful-young-asian-woman-carrying-colorful-bags-shopping-online-mobile-phone-isolated-purple-banner-background-184325828.jpg",
                 },
                 {
-                    src: "../../public/img/slide_03.jpg",
+                    src: "/img/slide_03.jpg",
                 },
                 // {
                 //     src: "../../public/img/slide_02.jpg",

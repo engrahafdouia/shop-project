@@ -63,7 +63,7 @@ p {
   color: #fbdf07;
 }
 .testmonial{
-  background-image: url('../assets/test.png');
+  background-image: url('/assets/test.png');
   background-size: cover;
 }
 </style>
