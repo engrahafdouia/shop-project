@@ -9,6 +9,7 @@
 
 
 <StudentInfo/>
+<v-divider></v-divider>
 <TechnologiesSection/>
 <OurTeamSection/>
 </template>

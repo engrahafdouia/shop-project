@@ -1,0 +1,1 @@
+import{a9 as e}from"./index.f1a42aba.js";const r=e("Cart",{persist:!0,state:()=>({items:[]}),getters:{itemscount(t){return t.items.length}},actions:{addToCard(t){this.items.push(t),console.log(t)},removeItem(t){this.items.splice(t,1)}}});export{r as u};
