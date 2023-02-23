@@ -22,7 +22,6 @@ import SwiperSection  from '@/components/SwiperSection.vue';
 
 import FeaturesSection from '@/components/FeaturesSection.vue';
 
-import FooterSection from '@/components/FooterSection.vue';
 import MostProducts from '@/components/MostProducts.vue';
 import FormContact from '@/components/FormContact.vue';
 
@@ -34,7 +33,7 @@ import FormContact from '@/components/FormContact.vue';
     SwiperSection,
     TesSection,
     AccordionSection,
-    FooterSection,
+
     MostProducts,
     FormContact
 },
