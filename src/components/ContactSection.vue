@@ -1,6 +1,6 @@
 <template>
   <v-parallax
-  src="../../public/assets/contact-us-background-businesses-email-call-message-landing-page-cover-icon-131608664.jpg" covered
+  src="/assets/contact-us-background-businesses-email-call-message-landing-page-cover-icon-131608664.jpg" covered
   >
 
 <div class="overlay">
@@ -232,7 +232,7 @@ export default {
   margin-right: 15px;
 }
 .cont{
-  background-image: url('../assets/map-bg.webp');
+  background-image: url('/assets/map-bg.webp');
   background-size: cover;
 }
 </style>

@@ -1,5 +1,5 @@
 <template>
- <HeroSection title="Welcome To Our Studio!" >
+ <HeroSection title="Welcome To Golance Project!" >
  </HeroSection>
  <MostSection/>
  <FeaturesSection/>
