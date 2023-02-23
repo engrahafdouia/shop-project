@@ -322,12 +322,12 @@ export default{
       images: [
         {
           id: 1,
-          src: "../../../public/img/logo_black.svg",
+          src: "/img/logo_black.svg",
           alt: "Natural Grove Green Trees Path",
         },
         {
           id: 2,
-          src: "../../../public/img/Logo White-p-500.png",
+          src: "/img/Logo White-p-500.png",
           alt: "stockafbeelding cascades in nationaal park plitvice",
         },
       ],
