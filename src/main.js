@@ -8,7 +8,7 @@
 //import { registerSW } from 'virtual:pwa-register'
 
 import App from './App.vue'
-import '../public/assets/main.css'
+import '/public/assets/main.css'
 // Composables
 import { createApp } from 'vue'
 
